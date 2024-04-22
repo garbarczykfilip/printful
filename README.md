@@ -1,2 +1,2 @@
 # printful
- Recrutation test exercise
+ Recruitment test exercise
